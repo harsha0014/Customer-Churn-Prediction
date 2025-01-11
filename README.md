@@ -1,4 +1,3 @@
-# Customer-Churn-Prediction
 # Customer Churn Prediction Model
 
 ## Project Overview
@@ -9,6 +8,10 @@ This project implements a **Customer Churn Prediction** model using machine lear
 - **Data Preprocessing**: Categorical encoding, scaling, and splitting the data into training and testing sets.
 - **Modeling**: Implemented with an Artificial Neural Network (ANN) model using TensorFlow.
 - **Streamlit Application**: The model is deployed with Streamlit for easy prediction and testing.
+
+## Dataset
+You can download the dataset used for this project from Kaggle using the following link:
+- [Churn Modelling Dataset](https://www.kaggle.com/datasets/shrutimechlearn/churn-modelling?resource=download)
 
 ## Installation Instructions
 1. Clone this repository:
